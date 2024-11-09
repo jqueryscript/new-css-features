@@ -24,7 +24,7 @@ jobs:
           node generate-readme.js > README.md
 
       - name: Commit changes
-        uses: stefcurry/git-push-action@v4
+        uses: stefanzweifel/git-auto-commit-action@v4
         with:
           branch: main # Replace with your desired branch
           commit_message: "Update CSS Features Readme"
