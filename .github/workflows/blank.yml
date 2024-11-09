@@ -1,0 +1,32 @@
+name: Generate CSS Features Readme
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'
+  workflow_dispatch: # Allow manual runs
+
+jobs:
+  generate-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 16
+
+      - name: Install dependencies
+        run: npm install node-fetch
+
+      - name: Generate Readme
+        run: |
+          node generate-readme.js > README.md
+
+      - name: Commit changes
+        uses: stefcurry/git-push-action@v4
+        with:
+          branch: main # Replace with your desired branch
+          commit_message: "Update CSS Features Readme"
+          author_name: github-actions[bot]
+          author_email: 41898282+github-actions[bot]@users.noreply.github.com
