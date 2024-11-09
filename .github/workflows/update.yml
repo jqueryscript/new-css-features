@@ -1,32 +1,31 @@
-name: Generate CSS Features Readme
-
+name: Update CSS Features List
 on:
   schedule:
-    - cron: '0 0 * * 0'
-  workflow_dispatch: # Allow manual runs
+    - cron: '0 0 * * 0'  # Runs at 00:00 every Sunday
+  workflow_dispatch:      # Allows manual trigger
 
 jobs:
-  generate-readme:
+  update-features:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 22
+          node-version: '20'
 
       - name: Install dependencies
-        run: npm install node-fetch
+        run: npm install @mdn/browser-compat-data
 
-      - name: Generate Readme
+      - name: Generate CSS Features List
+        run: node generate-readme.js
+
+      - name: Commit and Push Changes
         run: |
-          node generate-readme.js > README.md
-
-      - name: Commit changes
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          branch: main # Replace with your desired branch
-          commit_message: "Update CSS Features Readme"
-          author_name: github-actions[bot]
-          author_email: 41898282+github-actions[bot]@users.noreply.github.com
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "docs: update CSS features list [skip ci]"
+          git push
