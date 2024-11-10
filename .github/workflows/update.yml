@@ -27,7 +27,7 @@ jobs:
         run: npm install @mdn/browser-compat-data
 
       - name: Generate CSS Features List
-        run: node include-all.js
+        run: node generate-readme.js
 
       - name: Commit and Push Changes
         env:
