@@ -1,6 +1,6 @@
-# CSS Features Timeline
+# New CSS Features Since 2018
 
-A comprehensive list of CSS features by year of general availability across major browsers.
+A comprehensive list of new CSS features by year of general availability across major browsers.
 
 _This document is automatically generated weekly._
 
@@ -86,9 +86,149 @@ _This document is automatically generated weekly._
 - [<code>sqrt()</code>](https://developer.mozilla.org/docs/Web/CSS/sqrt) (Chrome 120, Firefox 118, Safari 15.4)
 - [<code>tan()</code>](https://developer.mozilla.org/docs/Web/CSS/tan) (Chrome 111, Firefox 108, Safari 15.4)
 
+## 2022
+
+### at-rules
+
+- [<code>@font-palette-values</code>](https://developer.mozilla.org/docs/Web/CSS/@font-palette-values) (Chrome 101, Firefox 107, Safari 15.4)
+- [<code>@layer</code>](https://developer.mozilla.org/docs/Web/CSS/@layer) (Chrome 99, Firefox 97, Safari 15.4)
+
+### properties
+
+- [accent-color](https://developer.mozilla.org/docs/Web/CSS/accent-color) (Chrome 93, Firefox 92, Safari 15.4)
+- [color-scheme](https://developer.mozilla.org/docs/Web/CSS/color-scheme) (Chrome 81, Firefox 96, Safari 13)
+- [contain](https://developer.mozilla.org/docs/Web/CSS/contain) (Chrome 52, Firefox 69, Safari 15.4)
+- [font-palette](https://developer.mozilla.org/docs/Web/CSS/font-palette) (Chrome 101, Firefox 107, Safari 15.4)
+- [font-synthesis](https://developer.mozilla.org/docs/Web/CSS/font-synthesis) (Chrome 97, Firefox 34, Safari 9)
+- [overscroll-behavior](https://developer.mozilla.org/docs/Web/CSS/overscroll-behavior) (Chrome 63, Firefox 59, Safari 16)
+- [overscroll-behavior-block](https://developer.mozilla.org/docs/Web/CSS/overscroll-behavior-block) (Chrome 77, Firefox 73, Safari 16)
+- [overscroll-behavior-inline](https://developer.mozilla.org/docs/Web/CSS/overscroll-behavior-inline) (Chrome 77, Firefox 73, Safari 16)
+- [overscroll-behavior-x](https://developer.mozilla.org/docs/Web/CSS/overscroll-behavior-x) (Chrome 63, Firefox 59, Safari 16)
+- [overscroll-behavior-y](https://developer.mozilla.org/docs/Web/CSS/overscroll-behavior-y) (Chrome 63, Firefox 59, Safari 16)
+- [rotate](https://developer.mozilla.org/docs/Web/CSS/rotate) (Chrome 104, Firefox 72, Safari 14.1)
+- [scale](https://developer.mozilla.org/docs/Web/CSS/scale) (Chrome 104, Firefox 72, Safari 14.1)
+- [scroll-behavior](https://developer.mozilla.org/docs/Web/CSS/scroll-behavior) (Chrome 61, Firefox 36, Safari 15.4)
+- [scroll-snap-stop](https://developer.mozilla.org/docs/Web/CSS/scroll-snap-stop) (Chrome 75, Firefox 103, Safari 15)
+- [scrollbar-gutter](https://developer.mozilla.org/docs/Web/CSS/scrollbar-gutter) (Chrome 94, Firefox 97, Safari 18.2)
+- [text-decoration-skip-ink](https://developer.mozilla.org/docs/Web/CSS/text-decoration-skip-ink) (Chrome 64, Firefox 70, Safari 15.4)
+- [translate](https://developer.mozilla.org/docs/Web/CSS/translate) (Chrome 104, Firefox 72, Safari 14.1)
+
+### selectors
+
+- [<code>:modal</code>](https://developer.mozilla.org/docs/Web/CSS/:modal) (Chrome 105, Firefox 103, Safari 15.6)
+
+### types
+
+- <code>&lt;calc-constant&gt;</code> (Chrome 99, Firefox 108, Safari 15.4)
+
+## 2021
+
+### properties
+
+- [aspect-ratio](https://developer.mozilla.org/docs/Web/CSS/aspect-ratio) (Chrome 88, Firefox 89, Safari 15)
+- [border-block](https://developer.mozilla.org/docs/Web/CSS/border-block) (Chrome 87, Firefox 66, Safari 14.1)
+- [border-block-color](https://developer.mozilla.org/docs/Web/CSS/border-block-color) (Chrome 87, Firefox 66, Safari 14.1)
+- [border-block-style](https://developer.mozilla.org/docs/Web/CSS/border-block-style) (Chrome 87, Firefox 66, Safari 14.1)
+- [border-block-width](https://developer.mozilla.org/docs/Web/CSS/border-block-width) (Chrome 87, Firefox 66, Safari 14.1)
+- [border-end-end-radius](https://developer.mozilla.org/docs/Web/CSS/border-end-end-radius) (Chrome 89, Firefox 66, Safari 15)
+- [border-end-start-radius](https://developer.mozilla.org/docs/Web/CSS/border-end-start-radius) (Chrome 89, Firefox 66, Safari 15)
+- [border-inline](https://developer.mozilla.org/docs/Web/CSS/border-inline) (Chrome 87, Firefox 66, Safari 14.1)
+- [border-inline-color](https://developer.mozilla.org/docs/Web/CSS/border-inline-color) (Chrome 87, Firefox 66, Safari 14.1)
+- [border-inline-style](https://developer.mozilla.org/docs/Web/CSS/border-inline-style) (Chrome 87, Firefox 66, Safari 14.1)
+- [border-inline-width](https://developer.mozilla.org/docs/Web/CSS/border-inline-width) (Chrome 87, Firefox 66, Safari 14.1)
+- [border-start-end-radius](https://developer.mozilla.org/docs/Web/CSS/border-start-end-radius) (Chrome 89, Firefox 66, Safari 15)
+- [border-start-start-radius](https://developer.mozilla.org/docs/Web/CSS/border-start-start-radius) (Chrome 89, Firefox 66, Safari 15)
+- [inset](https://developer.mozilla.org/docs/Web/CSS/inset) (Chrome 87, Firefox 66, Safari 14.1)
+- [margin-block](https://developer.mozilla.org/docs/Web/CSS/margin-block) (Chrome 87, Firefox 66, Safari 14.1)
+- [margin-inline](https://developer.mozilla.org/docs/Web/CSS/margin-inline) (Chrome 87, Firefox 66, Safari 14.1)
+- [padding-block](https://developer.mozilla.org/docs/Web/CSS/padding-block) (Chrome 87, Firefox 66, Safari 14.1)
+- [padding-inline](https://developer.mozilla.org/docs/Web/CSS/padding-inline) (Chrome 87, Firefox 66, Safari 14.1)
+- [scroll-margin-block](https://developer.mozilla.org/docs/Web/CSS/scroll-margin-block) (Chrome 69, Firefox 68, Safari 15)
+- [scroll-margin-block-end](https://developer.mozilla.org/docs/Web/CSS/scroll-margin-block-end) (Chrome 69, Firefox 68, Safari 15)
+- [scroll-margin-block-start](https://developer.mozilla.org/docs/Web/CSS/scroll-margin-block-start) (Chrome 69, Firefox 68, Safari 15)
+- [scroll-margin-inline](https://developer.mozilla.org/docs/Web/CSS/scroll-margin-inline) (Chrome 69, Firefox 68, Safari 15)
+- [scroll-margin-inline-end](https://developer.mozilla.org/docs/Web/CSS/scroll-margin-inline-end) (Chrome 69, Firefox 68, Safari 15)
+- [scroll-margin-inline-start](https://developer.mozilla.org/docs/Web/CSS/scroll-margin-inline-start) (Chrome 69, Firefox 68, Safari 15)
+- [scroll-padding-block](https://developer.mozilla.org/docs/Web/CSS/scroll-padding-block) (Chrome 69, Firefox 68, Safari 15)
+- [scroll-padding-block-end](https://developer.mozilla.org/docs/Web/CSS/scroll-padding-block-end) (Chrome 69, Firefox 68, Safari 15)
+- [scroll-padding-block-start](https://developer.mozilla.org/docs/Web/CSS/scroll-padding-block-start) (Chrome 69, Firefox 68, Safari 15)
+- [scroll-padding-inline](https://developer.mozilla.org/docs/Web/CSS/scroll-padding-inline) (Chrome 69, Firefox 68, Safari 15)
+- [scroll-padding-inline-end](https://developer.mozilla.org/docs/Web/CSS/scroll-padding-inline-end) (Chrome 69, Firefox 68, Safari 15)
+- [scroll-padding-inline-start](https://developer.mozilla.org/docs/Web/CSS/scroll-padding-inline-start) (Chrome 69, Firefox 68, Safari 15)
+
+### selectors
+
+- [<code>:where()</code>](https://developer.mozilla.org/docs/Web/CSS/:where) (Chrome 88, Firefox 78, Safari 14)
+
+## 2020
+
+### properties
+
+- [font-optical-sizing](https://developer.mozilla.org/docs/Web/CSS/font-optical-sizing) (Chrome 79, Firefox 62, Safari 13.1)
+- [image-orientation](https://developer.mozilla.org/docs/Web/CSS/image-orientation) (Chrome 81, Firefox 26, Safari 13.1)
+- [text-underline-offset](https://developer.mozilla.org/docs/Web/CSS/text-underline-offset) (Chrome 87, Firefox 70, Safari 12.1)
+
+### selectors
+
+- [<code>::marker</code>](https://developer.mozilla.org/docs/Web/CSS/::marker) (Chrome 86, Firefox 68, Safari 11.1)
+- [<code>::part</code>](https://developer.mozilla.org/docs/Web/CSS/::part) (Chrome 73, Firefox 72, Safari 13.1)
+
+### types
+
+- [<code>clamp()</code>](https://developer.mozilla.org/docs/Web/CSS/clamp) (Chrome 79, Firefox 75, Safari 13.1)
+- [<code>max()</code>](https://developer.mozilla.org/docs/Web/CSS/max) (Chrome 79, Firefox 75, Safari 11.1)
+- [<code>min()</code>](https://developer.mozilla.org/docs/Web/CSS/min) (Chrome 79, Firefox 75, Safari 11.1)
+
+## 2019
+
+### properties
+
+- [block-size](https://developer.mozilla.org/docs/Web/CSS/block-size) (Chrome 57, Firefox 41, Safari 12.1)
+- [border-block-end](https://developer.mozilla.org/docs/Web/CSS/border-block-end) (Chrome 69, Firefox 41, Safari 12.1)
+- [border-block-end-color](https://developer.mozilla.org/docs/Web/CSS/border-block-end-color) (Chrome 69, Firefox 41, Safari 12.1)
+- [border-block-end-style](https://developer.mozilla.org/docs/Web/CSS/border-block-end-style) (Chrome 69, Firefox 41, Safari 12.1)
+- [border-block-end-width](https://developer.mozilla.org/docs/Web/CSS/border-block-end-width) (Chrome 69, Firefox 41, Safari 12.1)
+- [border-block-start](https://developer.mozilla.org/docs/Web/CSS/border-block-start) (Chrome 69, Firefox 41, Safari 12.1)
+- [border-block-start-color](https://developer.mozilla.org/docs/Web/CSS/border-block-start-color) (Chrome 69, Firefox 41, Safari 12.1)
+- [border-block-start-style](https://developer.mozilla.org/docs/Web/CSS/border-block-start-style) (Chrome 69, Firefox 41, Safari 12.1)
+- [border-block-start-width](https://developer.mozilla.org/docs/Web/CSS/border-block-start-width) (Chrome 69, Firefox 41, Safari 12.1)
+- [border-inline-end](https://developer.mozilla.org/docs/Web/CSS/border-inline-end) (Chrome 69, Firefox 41, Safari 12.1)
+- [border-inline-start](https://developer.mozilla.org/docs/Web/CSS/border-inline-start) (Chrome 69, Firefox 41, Safari 12.1)
+- [border-inline-start-width](https://developer.mozilla.org/docs/Web/CSS/border-inline-start-width) (Chrome 69, Firefox 41, Safari 12.1)
+- [break-after](https://developer.mozilla.org/docs/Web/CSS/break-after) (Chrome 50, Firefox 65, Safari 10)
+- [break-before](https://developer.mozilla.org/docs/Web/CSS/break-before) (Chrome 50, Firefox 65, Safari 10)
+- [break-inside](https://developer.mozilla.org/docs/Web/CSS/break-inside) (Chrome 50, Firefox 65, Safari 10)
+- [inline-size](https://developer.mozilla.org/docs/Web/CSS/inline-size) (Chrome 57, Firefox 41, Safari 12.1)
+- [margin-block-end](https://developer.mozilla.org/docs/Web/CSS/margin-block-end) (Chrome 69, Firefox 41, Safari 12.1)
+- [margin-block-start](https://developer.mozilla.org/docs/Web/CSS/margin-block-start) (Chrome 69, Firefox 41, Safari 12.1)
+- [max-block-size](https://developer.mozilla.org/docs/Web/CSS/max-block-size) (Chrome 57, Firefox 41, Safari 12.1)
+- [min-block-size](https://developer.mozilla.org/docs/Web/CSS/min-block-size) (Chrome 57, Firefox 41, Safari 12.1)
+- [min-inline-size](https://developer.mozilla.org/docs/Web/CSS/min-inline-size) (Chrome 57, Firefox 41, Safari 12.1)
+- [padding-block-end](https://developer.mozilla.org/docs/Web/CSS/padding-block-end) (Chrome 69, Firefox 41, Safari 12.1)
+- [padding-block-start](https://developer.mozilla.org/docs/Web/CSS/padding-block-start) (Chrome 69, Firefox 41, Safari 12.1)
+- [scroll-snap-align](https://developer.mozilla.org/docs/Web/CSS/scroll-snap-align) (Chrome 69, Firefox 68, Safari 11)
+- [touch-action](https://developer.mozilla.org/docs/Web/CSS/touch-action) (Chrome 36, Firefox 52, Safari 13)
+
+## 2018
+
+### properties
+
+- [caret-color](https://developer.mozilla.org/docs/Web/CSS/caret-color) (Chrome 57, Firefox 53, Safari 11.1)
+- [font-variation-settings](https://developer.mozilla.org/docs/Web/CSS/font-variation-settings) (Chrome 62, Firefox 62, Safari 11)
+- [shape-image-threshold](https://developer.mozilla.org/docs/Web/CSS/shape-image-threshold) (Chrome 37, Firefox 62, Safari 10.1)
+- [shape-outside](https://developer.mozilla.org/docs/Web/CSS/shape-outside) (Chrome 37, Firefox 62, Safari 10.1)
+- [transform-box](https://developer.mozilla.org/docs/Web/CSS/transform-box) (Chrome 64, Firefox 55, Safari 11)
+
+### selectors
+
+- [<code>:defined</code>](https://developer.mozilla.org/docs/Web/CSS/:defined) (Chrome 54, Firefox 63, Safari 10)
+- [<code>:host</code>](https://developer.mozilla.org/docs/Web/CSS/:host) (Chrome 54, Firefox 63, Safari 10)
+- [<code>:host()</code>](https://developer.mozilla.org/docs/Web/CSS/:host_function) (Chrome 54, Firefox 63, Safari 10)
+- [<code>::slotted</code>](https://developer.mozilla.org/docs/Web/CSS/::slotted) (Chrome 50, Firefox 63, Safari 10)
+
 
 ## Summary
 
-Total features tracked: 54
+Total features tracked: 148
 
-Last updated: 2024-11-10
+Last updated: 2024-11-11
