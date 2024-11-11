@@ -2,7 +2,7 @@
 const fs = require('fs');
 const bcd = require('@mdn/browser-compat-data');
 
-const START_YEAR = 2023;
+const START_YEAR = 2018;
 const END_YEAR = new Date().getUTCFullYear();
 
 const { browsers, css } = bcd;
