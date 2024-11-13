@@ -1,4 +1,4 @@
-# New CSS Features Since 2018
+# New CSS Features Since 2016
 
 A comprehensive list of new CSS features by year of general availability across major browsers.
 
