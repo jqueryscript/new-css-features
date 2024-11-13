@@ -83,7 +83,7 @@ for (const [category, features] of Object.entries(css)) {
 }
 
 // Generate README content
-let readmeContent = '# New CSS Features Since 2018\n\n';
+let readmeContent = '# New CSS Features Since 2016\n\n';
 readmeContent += 'A comprehensive list of new CSS features by year of general availability across major browsers.\n\n';
 readmeContent += '_This document is automatically generated weekly._\n\n';
 
