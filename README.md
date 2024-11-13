@@ -226,9 +226,66 @@ _This document is automatically generated weekly._
 - [<code>:host()</code>](https://developer.mozilla.org/docs/Web/CSS/:host_function) (Chrome 54, Firefox 63, Safari 10)
 - [<code>::slotted</code>](https://developer.mozilla.org/docs/Web/CSS/::slotted) (Chrome 50, Firefox 63, Safari 10)
 
+## 2017
+
+### properties
+
+- [font-stretch](https://developer.mozilla.org/docs/Web/CSS/font-stretch) (Chrome 60, Firefox 9, Safari 11)
+- [font-variant-east-asian](https://developer.mozilla.org/docs/Web/CSS/font-variant-east-asian) (Chrome 63, Firefox 34, Safari 9.1)
+- [gap](https://developer.mozilla.org/docs/Web/CSS/gap) (Chrome 57, Firefox 52, Safari 10.1)
+- [grid](https://developer.mozilla.org/docs/Web/CSS/grid) (Chrome 57, Firefox 52, Safari 10.1)
+- [grid-area](https://developer.mozilla.org/docs/Web/CSS/grid-area) (Chrome 57, Firefox 52, Safari 10.1)
+- [grid-auto-flow](https://developer.mozilla.org/docs/Web/CSS/grid-auto-flow) (Chrome 57, Firefox 52, Safari 10.1)
+- [grid-column](https://developer.mozilla.org/docs/Web/CSS/grid-column) (Chrome 57, Firefox 52, Safari 10.1)
+- [grid-column-end](https://developer.mozilla.org/docs/Web/CSS/grid-column-end) (Chrome 57, Firefox 52, Safari 10.1)
+- [grid-column-start](https://developer.mozilla.org/docs/Web/CSS/grid-column-start) (Chrome 57, Firefox 52, Safari 10.1)
+- [grid-row](https://developer.mozilla.org/docs/Web/CSS/grid-row) (Chrome 57, Firefox 52, Safari 10.1)
+- [grid-row-end](https://developer.mozilla.org/docs/Web/CSS/grid-row-end) (Chrome 57, Firefox 52, Safari 10.1)
+- [grid-row-start](https://developer.mozilla.org/docs/Web/CSS/grid-row-start) (Chrome 57, Firefox 52, Safari 10.1)
+- [grid-template](https://developer.mozilla.org/docs/Web/CSS/grid-template) (Chrome 57, Firefox 52, Safari 10.1)
+- [grid-template-areas](https://developer.mozilla.org/docs/Web/CSS/grid-template-areas) (Chrome 57, Firefox 52, Safari 10.1)
+- [grid-template-columns](https://developer.mozilla.org/docs/Web/CSS/grid-template-columns) (Chrome 57, Firefox 52, Safari 10.1)
+- [grid-template-rows](https://developer.mozilla.org/docs/Web/CSS/grid-template-rows) (Chrome 57, Firefox 52, Safari 10.1)
+- [justify-self](https://developer.mozilla.org/docs/Web/CSS/justify-self) (Chrome 57, Firefox 45, Safari 10.1)
+- [place-content](https://developer.mozilla.org/docs/Web/CSS/place-content) (Chrome 59, Firefox 45, Safari 9)
+- [place-items](https://developer.mozilla.org/docs/Web/CSS/place-items) (Chrome 59, Firefox 45, Safari 11)
+- [place-self](https://developer.mozilla.org/docs/Web/CSS/place-self) (Chrome 59, Firefox 45, Safari 11)
+- [row-gap](https://developer.mozilla.org/docs/Web/CSS/row-gap) (Chrome 47, Firefox 52, Safari 10.1)
+
+### selectors
+
+- [<code>::cue</code>](https://developer.mozilla.org/docs/Web/CSS/::cue) (Chrome 26, Firefox 55, Safari 7)
+- [<code>:focus-within</code>](https://developer.mozilla.org/docs/Web/CSS/:focus-within) (Chrome 60, Firefox 52, Safari 10.1)
+
+### types
+
+- [<code>&lt;basic-shape&gt;</code>](https://developer.mozilla.org/docs/Web/CSS/basic-shape) (Chrome 37, Firefox 54, Safari 10.1)
+- [<code>&lt;flex&gt;</code>](https://developer.mozilla.org/docs/Web/CSS/flex_value) (Chrome 29, Firefox 40, Safari 10.1)
+
+## 2016
+
+### properties
+
+- [-webkit-mask-position-x](https://developer.mozilla.org/docs/Web/CSS/-webkit-mask-position-x) (Chrome 1, Firefox 49, Safari 3.1)
+- [-webkit-mask-position-y](https://developer.mozilla.org/docs/Web/CSS/-webkit-mask-position-y) (Chrome 1, Firefox 49, Safari 3.1)
+- [-webkit-text-fill-color](https://developer.mozilla.org/docs/Web/CSS/-webkit-text-fill-color) (Chrome 1, Firefox 49, Safari 3)
+- [-webkit-text-stroke](https://developer.mozilla.org/docs/Web/CSS/-webkit-text-stroke) (Chrome 4, Firefox 49, Safari 3)
+- [-webkit-text-stroke-color](https://developer.mozilla.org/docs/Web/CSS/-webkit-text-stroke-color) (Chrome 1, Firefox 49, Safari 3)
+- [-webkit-text-stroke-width](https://developer.mozilla.org/docs/Web/CSS/-webkit-text-stroke-width) (Chrome 1, Firefox 49, Safari 3)
+- [all](https://developer.mozilla.org/docs/Web/CSS/all) (Chrome 37, Firefox 27, Safari 9.1)
+- [background-position-x](https://developer.mozilla.org/docs/Web/CSS/background-position-x) (Chrome 1, Firefox 49, Safari 1)
+- [background-position-y](https://developer.mozilla.org/docs/Web/CSS/background-position-y) (Chrome 1, Firefox 49, Safari 1)
+- [--*](https://developer.mozilla.org/docs/Web/CSS/--*) (Chrome 49, Firefox 31, Safari 9.1)
+- [font-variant-caps](https://developer.mozilla.org/docs/Web/CSS/font-variant-caps) (Chrome 52, Firefox 34, Safari 9.1)
+- [font-variant-numeric](https://developer.mozilla.org/docs/Web/CSS/font-variant-numeric) (Chrome 52, Firefox 34, Safari 9.1)
+- [justify-items](https://developer.mozilla.org/docs/Web/CSS/justify-items) (Chrome 52, Firefox 20, Safari 9)
+- [object-fit](https://developer.mozilla.org/docs/Web/CSS/object-fit) (Chrome 32, Firefox 36, Safari 10)
+- [object-position](https://developer.mozilla.org/docs/Web/CSS/object-position) (Chrome 32, Firefox 36, Safari 10)
+- [will-change](https://developer.mozilla.org/docs/Web/CSS/will-change) (Chrome 36, Firefox 36, Safari 9.1)
+
 
 ## Summary
 
-Total features tracked: 148
+Total features tracked: 189
 
-Last updated: 2024-11-11
+Last updated: 2024-11-13
