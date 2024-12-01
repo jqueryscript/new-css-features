@@ -288,4 +288,4 @@ _This document is automatically generated weekly._
 
 Total features tracked: 189
 
-Last updated: 2024-11-24
+Last updated: 2024-12-01
