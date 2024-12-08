@@ -20,6 +20,7 @@ _This document is automatically generated weekly._
 - [ruby-align](https://developer.mozilla.org/docs/Web/CSS/ruby-align) (Chrome 128, Firefox 38, Safari 18.2)
 - [scrollbar-width](https://developer.mozilla.org/docs/Web/CSS/scrollbar-width) (Chrome 121, Firefox 64, Safari 18.2)
 - [text-wrap](https://developer.mozilla.org/docs/Web/CSS/text-wrap) (Chrome 114, Firefox 121, Safari 17.4)
+- [text-wrap-mode](https://developer.mozilla.org/docs/Web/CSS/text-wrap-mode) (Chrome 130, Firefox 124, Safari 17.4)
 - [text-wrap-style](https://developer.mozilla.org/docs/Web/CSS/text-wrap-style) (Chrome 130, Firefox 124, Safari 17.5)
 - [transition-behavior](https://developer.mozilla.org/docs/Web/CSS/transition-behavior) (Chrome 117, Firefox 129, Safari 17.4)
 - [white-space-collapse](https://developer.mozilla.org/docs/Web/CSS/white-space-collapse) (Chrome 114, Firefox 124, Safari 17.4)
@@ -286,6 +287,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total features tracked: 189
+Total features tracked: 190
 
-Last updated: 2024-12-01
+Last updated: 2024-12-08
