@@ -8,6 +8,7 @@ _This document is automatically generated weekly._
 
 ### at-rules
 
+- [<code>@page</code>](https://developer.mozilla.org/docs/Web/CSS/@page) (Chrome 2, Firefox 19, Safari 18.2)
 - [<code>@property</code>](https://developer.mozilla.org/docs/Web/CSS/@property) (Chrome 85, Firefox 128, Safari 16.4)
 - [<code>@scope</code>](https://developer.mozilla.org/docs/Web/CSS/@scope) (Chrome 118, Firefox 128, Safari 17.4)
 - [<code>@starting-style</code>](https://developer.mozilla.org/docs/Web/CSS/@starting-style) (Chrome 117, Firefox 129, Safari 17.5)
@@ -18,6 +19,7 @@ _This document is automatically generated weekly._
 - [font-variant-emoji](https://developer.mozilla.org/docs/Web/CSS/font-variant-emoji) (Chrome 131, Firefox 108, Safari 17.5)
 - [offset-position](https://developer.mozilla.org/docs/Web/CSS/offset-position) (Chrome 116, Firefox 122, Safari 16)
 - [ruby-align](https://developer.mozilla.org/docs/Web/CSS/ruby-align) (Chrome 128, Firefox 38, Safari 18.2)
+- [scrollbar-gutter](https://developer.mozilla.org/docs/Web/CSS/scrollbar-gutter) (Chrome 94, Firefox 97, Safari 18.2)
 - [scrollbar-width](https://developer.mozilla.org/docs/Web/CSS/scrollbar-width) (Chrome 121, Firefox 64, Safari 18.2)
 - [text-wrap](https://developer.mozilla.org/docs/Web/CSS/text-wrap) (Chrome 114, Firefox 121, Safari 17.4)
 - [text-wrap-mode](https://developer.mozilla.org/docs/Web/CSS/text-wrap-mode) (Chrome 130, Firefox 124, Safari 17.4)
@@ -110,7 +112,6 @@ _This document is automatically generated weekly._
 - [scale](https://developer.mozilla.org/docs/Web/CSS/scale) (Chrome 104, Firefox 72, Safari 14.1)
 - [scroll-behavior](https://developer.mozilla.org/docs/Web/CSS/scroll-behavior) (Chrome 61, Firefox 36, Safari 15.4)
 - [scroll-snap-stop](https://developer.mozilla.org/docs/Web/CSS/scroll-snap-stop) (Chrome 75, Firefox 103, Safari 15)
-- [scrollbar-gutter](https://developer.mozilla.org/docs/Web/CSS/scrollbar-gutter) (Chrome 94, Firefox 97, Safari 18.2)
 - [text-decoration-skip-ink](https://developer.mozilla.org/docs/Web/CSS/text-decoration-skip-ink) (Chrome 64, Firefox 70, Safari 15.4)
 - [translate](https://developer.mozilla.org/docs/Web/CSS/translate) (Chrome 104, Firefox 72, Safari 14.1)
 
@@ -120,7 +121,7 @@ _This document is automatically generated weekly._
 
 ### types
 
-- <code>&lt;calc-constant&gt;</code> (Chrome 99, Firefox 108, Safari 15.4)
+- [<code>&lt;calc-keyword&gt;</code>](https://developer.mozilla.org/docs/Web/CSS/calc-keyword) (Chrome 99, Firefox 108, Safari 15.4)
 
 ## 2021
 
@@ -287,6 +288,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total features tracked: 190
+Total features tracked: 191
 
-Last updated: 2024-12-08
+Last updated: 2024-12-15
