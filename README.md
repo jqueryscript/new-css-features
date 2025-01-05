@@ -290,4 +290,4 @@ _This document is automatically generated weekly._
 
 Total features tracked: 191
 
-Last updated: 2024-12-29
+Last updated: 2025-01-05
