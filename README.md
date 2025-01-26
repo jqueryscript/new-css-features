@@ -185,7 +185,6 @@ _This document is automatically generated weekly._
 
 ### properties
 
-- [block-size](https://developer.mozilla.org/docs/Web/CSS/block-size) (Chrome 57, Firefox 41, Safari 12.1)
 - [border-block-end](https://developer.mozilla.org/docs/Web/CSS/border-block-end) (Chrome 69, Firefox 41, Safari 12.1)
 - [border-block-end-color](https://developer.mozilla.org/docs/Web/CSS/border-block-end-color) (Chrome 69, Firefox 41, Safari 12.1)
 - [border-block-end-style](https://developer.mozilla.org/docs/Web/CSS/border-block-end-style) (Chrome 69, Firefox 41, Safari 12.1)
@@ -200,7 +199,6 @@ _This document is automatically generated weekly._
 - [break-after](https://developer.mozilla.org/docs/Web/CSS/break-after) (Chrome 50, Firefox 65, Safari 10)
 - [break-before](https://developer.mozilla.org/docs/Web/CSS/break-before) (Chrome 50, Firefox 65, Safari 10)
 - [break-inside](https://developer.mozilla.org/docs/Web/CSS/break-inside) (Chrome 50, Firefox 65, Safari 10)
-- [inline-size](https://developer.mozilla.org/docs/Web/CSS/inline-size) (Chrome 57, Firefox 41, Safari 12.1)
 - [margin-block-end](https://developer.mozilla.org/docs/Web/CSS/margin-block-end) (Chrome 69, Firefox 41, Safari 12.1)
 - [margin-block-start](https://developer.mozilla.org/docs/Web/CSS/margin-block-start) (Chrome 69, Firefox 41, Safari 12.1)
 - [max-block-size](https://developer.mozilla.org/docs/Web/CSS/max-block-size) (Chrome 57, Firefox 41, Safari 12.1)
@@ -288,6 +286,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total features tracked: 191
+Total features tracked: 189
 
-Last updated: 2025-01-19
+Last updated: 2025-01-26
