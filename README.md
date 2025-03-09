@@ -4,6 +4,13 @@ A comprehensive list of new CSS features by year of general availability across 
 
 _This document is automatically generated weekly._
 
+## 2025
+
+### types
+
+- [<code>abs()</code>](https://developer.mozilla.org/docs/Web/CSS/abs) (Chrome 135, Firefox 118, Safari 15.4)
+- [<code>sign()</code>](https://developer.mozilla.org/docs/Web/CSS/sign) (Chrome 135, Firefox 118, Safari 15.4)
+
 ## 2024
 
 ### at-rules
@@ -283,9 +290,13 @@ _This document is automatically generated weekly._
 - [object-position](https://developer.mozilla.org/docs/Web/CSS/object-position) (Chrome 32, Firefox 36, Safari 10)
 - [will-change](https://developer.mozilla.org/docs/Web/CSS/will-change) (Chrome 36, Firefox 36, Safari 9.1)
 
+### types
+
+- [<code>var()</code>](https://developer.mozilla.org/docs/Web/CSS/var) (Chrome 49, Firefox 31, Safari 9.1)
+
 
 ## Summary
 
-Total features tracked: 189
+Total features tracked: 192
 
-Last updated: 2025-03-02
+Last updated: 2025-03-09
