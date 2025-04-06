@@ -6,10 +6,9 @@ _This document is automatically generated weekly._
 
 ## 2025
 
-### types
+### selectors
 
-- [<code>abs()</code>](https://developer.mozilla.org/docs/Web/CSS/abs) (Chrome 135, Firefox 118, Safari 15.4)
-- [<code>sign()</code>](https://developer.mozilla.org/docs/Web/CSS/sign) (Chrome 135, Firefox 118, Safari 15.4)
+- [<code>::details-content</code>](https://developer.mozilla.org/docs/Web/CSS/::details-content) (Chrome 131, Firefox 138, Safari 18.4)
 
 ## 2024
 
@@ -206,6 +205,8 @@ _This document is automatically generated weekly._
 - [break-after](https://developer.mozilla.org/docs/Web/CSS/break-after) (Chrome 50, Firefox 65, Safari 10)
 - [break-before](https://developer.mozilla.org/docs/Web/CSS/break-before) (Chrome 50, Firefox 65, Safari 10)
 - [break-inside](https://developer.mozilla.org/docs/Web/CSS/break-inside) (Chrome 50, Firefox 65, Safari 10)
+- [cx](https://developer.mozilla.org/docs/Web/CSS/cx) (Chrome 43, Firefox 69, Safari 9)
+- [cy](https://developer.mozilla.org/docs/Web/CSS/cy) (Chrome 43, Firefox 69, Safari 9)
 - [margin-block-end](https://developer.mozilla.org/docs/Web/CSS/margin-block-end) (Chrome 69, Firefox 41, Safari 12.1)
 - [margin-block-start](https://developer.mozilla.org/docs/Web/CSS/margin-block-start) (Chrome 69, Firefox 41, Safari 12.1)
 - [max-block-size](https://developer.mozilla.org/docs/Web/CSS/max-block-size) (Chrome 57, Firefox 41, Safari 12.1)
@@ -213,8 +214,11 @@ _This document is automatically generated weekly._
 - [min-inline-size](https://developer.mozilla.org/docs/Web/CSS/min-inline-size) (Chrome 57, Firefox 41, Safari 12.1)
 - [padding-block-end](https://developer.mozilla.org/docs/Web/CSS/padding-block-end) (Chrome 69, Firefox 41, Safari 12.1)
 - [padding-block-start](https://developer.mozilla.org/docs/Web/CSS/padding-block-start) (Chrome 69, Firefox 41, Safari 12.1)
+- [r](https://developer.mozilla.org/docs/Web/CSS/r) (Chrome 43, Firefox 69, Safari 9)
 - [scroll-snap-align](https://developer.mozilla.org/docs/Web/CSS/scroll-snap-align) (Chrome 69, Firefox 68, Safari 11)
 - [touch-action](https://developer.mozilla.org/docs/Web/CSS/touch-action) (Chrome 36, Firefox 52, Safari 13)
+- [x](https://developer.mozilla.org/docs/Web/CSS/x) (Chrome 42, Firefox 69, Safari 9)
+- [y](https://developer.mozilla.org/docs/Web/CSS/y) (Chrome 42, Firefox 69, Safari 9)
 
 ## 2018
 
@@ -297,6 +301,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total features tracked: 192
+Total features tracked: 196
 
-Last updated: 2025-03-30
+Last updated: 2025-04-06
