@@ -74,6 +74,7 @@ _This document is automatically generated weekly._
 - [mask-mode](https://developer.mozilla.org/docs/Web/CSS/mask-mode) (Chrome 120, Firefox 53, Safari 15.4)
 - [math-style](https://developer.mozilla.org/docs/Web/CSS/math-style) (Chrome 109, Firefox 117, Safari 14.1)
 - [offset-anchor](https://developer.mozilla.org/docs/Web/CSS/offset-anchor) (Chrome 116, Firefox 72, Safari 16)
+- [page](https://developer.mozilla.org/docs/Web/CSS/page) (Chrome 85, Firefox 110, Safari 1)
 
 ### selectors
 
@@ -301,6 +302,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total features tracked: 196
+Total features tracked: 197
 
-Last updated: 2025-04-06
+Last updated: 2025-04-13
