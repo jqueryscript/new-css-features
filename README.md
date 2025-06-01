@@ -9,6 +9,11 @@ _This document is automatically generated weekly._
 ### selectors
 
 - [<code>::details-content</code>](https://developer.mozilla.org/docs/Web/CSS/::details-content) (Chrome 131, Firefox 138, Safari 18.4)
+- [<code>::highlight()</code>](https://developer.mozilla.org/docs/Web/CSS/::highlight) (Chrome 105, Firefox 140, Safari 17.2)
+
+### types
+
+- [<code>abs()</code>](https://developer.mozilla.org/docs/Web/CSS/abs) (Chrome 138, Firefox 118, Safari 15.4)
 
 ## 2024
 
@@ -302,6 +307,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total features tracked: 197
+Total features tracked: 199
 
-Last updated: 2025-05-25
+Last updated: 2025-06-01
