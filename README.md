@@ -30,6 +30,8 @@ _This document is automatically generated weekly._
 - [font-variant-emoji](https://developer.mozilla.org/docs/Web/CSS/font-variant-emoji) (Chrome 131, Firefox 108, Safari 17.5)
 - [offset-position](https://developer.mozilla.org/docs/Web/CSS/offset-position) (Chrome 116, Firefox 122, Safari 16)
 - [ruby-align](https://developer.mozilla.org/docs/Web/CSS/ruby-align) (Chrome 128, Firefox 38, Safari 18.2)
+- [rx](https://developer.mozilla.org/docs/Web/CSS/rx) (Chrome 43, Firefox 69, Safari 17.4)
+- [ry](https://developer.mozilla.org/docs/Web/CSS/ry) (Chrome 43, Firefox 69, Safari 17.4)
 - [scrollbar-gutter](https://developer.mozilla.org/docs/Web/CSS/scrollbar-gutter) (Chrome 94, Firefox 97, Safari 18.2)
 - [scrollbar-width](https://developer.mozilla.org/docs/Web/CSS/scrollbar-width) (Chrome 121, Firefox 64, Safari 18.2)
 - [text-wrap](https://developer.mozilla.org/docs/Web/CSS/text-wrap) (Chrome 114, Firefox 121, Safari 17.4)
@@ -307,6 +309,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total features tracked: 199
+Total features tracked: 201
 
-Last updated: 2025-06-01
+Last updated: 2025-06-08
