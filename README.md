@@ -6,6 +6,11 @@ _This document is automatically generated weekly._
 
 ## 2025
 
+### properties
+
+- [overflow-block](https://developer.mozilla.org/docs/Web/CSS/overflow-block) (Chrome 135, Firefox 69, Safari 26)
+- [overflow-inline](https://developer.mozilla.org/docs/Web/CSS/overflow-inline) (Chrome 135, Firefox 69, Safari 26)
+
 ### selectors
 
 - [<code>::details-content</code>](https://developer.mozilla.org/docs/Web/CSS/::details-content) (Chrome 131, Firefox 138, Safari 18.4)
@@ -65,6 +70,7 @@ _This document is automatically generated weekly._
 
 - [-webkit-text-security](https://developer.mozilla.org/docs/Web/CSS/-webkit-text-security) (Chrome 1, Firefox 114, Safari 3)
 - [animation-composition](https://developer.mozilla.org/docs/Web/CSS/animation-composition) (Chrome 112, Firefox 115, Safari 16)
+- [animation-timeline](https://developer.mozilla.org/docs/Web/CSS/animation-timeline) (Chrome 115, Firefox 110, Safari 26)
 - [contain-intrinsic-block-size](https://developer.mozilla.org/docs/Web/CSS/contain-intrinsic-block-size) (Chrome 95, Firefox 107, Safari 17)
 - [contain-intrinsic-height](https://developer.mozilla.org/docs/Web/CSS/contain-intrinsic-height) (Chrome 95, Firefox 107, Safari 17)
 - [contain-intrinsic-inline-size](https://developer.mozilla.org/docs/Web/CSS/contain-intrinsic-inline-size) (Chrome 95, Firefox 107, Safari 17)
@@ -82,6 +88,12 @@ _This document is automatically generated weekly._
 - [math-style](https://developer.mozilla.org/docs/Web/CSS/math-style) (Chrome 109, Firefox 117, Safari 14.1)
 - [offset-anchor](https://developer.mozilla.org/docs/Web/CSS/offset-anchor) (Chrome 116, Firefox 72, Safari 16)
 - [page](https://developer.mozilla.org/docs/Web/CSS/page) (Chrome 85, Firefox 110, Safari 1)
+- [scroll-timeline](https://developer.mozilla.org/docs/Web/CSS/scroll-timeline) (Chrome 115, Firefox 111, Safari 26)
+- [scroll-timeline-axis](https://developer.mozilla.org/docs/Web/CSS/scroll-timeline-axis) (Chrome 115, Firefox 111, Safari 26)
+- [scroll-timeline-name](https://developer.mozilla.org/docs/Web/CSS/scroll-timeline-name) (Chrome 115, Firefox 111, Safari 26)
+- [view-timeline](https://developer.mozilla.org/docs/Web/CSS/view-timeline) (Chrome 115, Firefox 114, Safari 26)
+- [view-timeline-axis](https://developer.mozilla.org/docs/Web/CSS/view-timeline-axis) (Chrome 115, Firefox 114, Safari 26)
+- [view-timeline-name](https://developer.mozilla.org/docs/Web/CSS/view-timeline-name) (Chrome 115, Firefox 111, Safari 26)
 
 ### selectors
 
@@ -309,6 +321,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total features tracked: 201
+Total features tracked: 210
 
-Last updated: 2025-06-15
+Last updated: 2025-06-22
