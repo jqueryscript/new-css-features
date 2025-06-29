@@ -8,6 +8,7 @@ _This document is automatically generated weekly._
 
 ### properties
 
+- [font-variant-emoji](https://developer.mozilla.org/docs/Web/CSS/font-variant-emoji) (Chrome 131, Firefox 141, Safari 17.5)
 - [overflow-block](https://developer.mozilla.org/docs/Web/CSS/overflow-block) (Chrome 135, Firefox 69, Safari 26)
 - [overflow-inline](https://developer.mozilla.org/docs/Web/CSS/overflow-inline) (Chrome 135, Firefox 69, Safari 26)
 
@@ -32,7 +33,6 @@ _This document is automatically generated weekly._
 ### properties
 
 - [content-visibility](https://developer.mozilla.org/docs/Web/CSS/content-visibility) (Chrome 85, Firefox 125, Safari 18)
-- [font-variant-emoji](https://developer.mozilla.org/docs/Web/CSS/font-variant-emoji) (Chrome 131, Firefox 108, Safari 17.5)
 - [offset-position](https://developer.mozilla.org/docs/Web/CSS/offset-position) (Chrome 116, Firefox 122, Safari 16)
 - [ruby-align](https://developer.mozilla.org/docs/Web/CSS/ruby-align) (Chrome 128, Firefox 38, Safari 18.2)
 - [rx](https://developer.mozilla.org/docs/Web/CSS/rx) (Chrome 43, Firefox 69, Safari 17.4)
@@ -323,4 +323,4 @@ _This document is automatically generated weekly._
 
 Total features tracked: 210
 
-Last updated: 2025-06-22
+Last updated: 2025-06-29
