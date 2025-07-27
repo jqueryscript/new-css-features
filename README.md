@@ -20,6 +20,7 @@ _This document is automatically generated weekly._
 ### types
 
 - [<code>abs()</code>](https://developer.mozilla.org/docs/Web/CSS/abs) (Chrome 138, Firefox 118, Safari 15.4)
+- [<code>sign()</code>](https://developer.mozilla.org/docs/Web/CSS/sign) (Chrome 138, Firefox 118, Safari 15.4)
 
 ## 2024
 
@@ -321,6 +322,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total features tracked: 210
+Total features tracked: 211
 
-Last updated: 2025-07-20
+Last updated: 2025-07-27
