@@ -14,7 +14,7 @@ _This document is automatically generated weekly._
 
 ### selectors
 
-- [<code>::details-content</code>](https://developer.mozilla.org/docs/Web/CSS/::details-content) (Chrome 131, Firefox 138, Safari 18.4)
+- [<code>::details-content</code>](https://developer.mozilla.org/docs/Web/CSS/::details-content) (Chrome 131, Firefox 143, Safari 18.4)
 - [<code>::highlight()</code>](https://developer.mozilla.org/docs/Web/CSS/::highlight) (Chrome 105, Firefox 140, Safari 17.2)
 
 ### types
@@ -324,4 +324,4 @@ _This document is automatically generated weekly._
 
 Total features tracked: 211
 
-Last updated: 2025-08-17
+Last updated: 2025-08-24
