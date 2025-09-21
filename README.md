@@ -8,14 +8,28 @@ _This document is automatically generated weekly._
 
 ### properties
 
+- [animation-timeline](https://developer.mozilla.org/docs/Web/CSS/animation-timeline) (Chrome 115, Firefox 110, Safari 26)
 - [font-variant-emoji](https://developer.mozilla.org/docs/Web/CSS/font-variant-emoji) (Chrome 131, Firefox 141, Safari 17.5)
 - [overflow-block](https://developer.mozilla.org/docs/Web/CSS/overflow-block) (Chrome 135, Firefox 69, Safari 26)
 - [overflow-inline](https://developer.mozilla.org/docs/Web/CSS/overflow-inline) (Chrome 135, Firefox 69, Safari 26)
+- [scroll-timeline](https://developer.mozilla.org/docs/Web/CSS/scroll-timeline) (Chrome 115, Firefox 111, Safari 26)
+- [scroll-timeline-axis](https://developer.mozilla.org/docs/Web/CSS/scroll-timeline-axis) (Chrome 115, Firefox 111, Safari 26)
+- [scroll-timeline-name](https://developer.mozilla.org/docs/Web/CSS/scroll-timeline-name) (Chrome 115, Firefox 111, Safari 26)
+- [view-timeline](https://developer.mozilla.org/docs/Web/CSS/view-timeline) (Chrome 115, Firefox 114, Safari 26)
+- [view-timeline-axis](https://developer.mozilla.org/docs/Web/CSS/view-timeline-axis) (Chrome 115, Firefox 114, Safari 26)
+- [view-timeline-name](https://developer.mozilla.org/docs/Web/CSS/view-timeline-name) (Chrome 115, Firefox 111, Safari 26)
+- [view-transition-class](https://developer.mozilla.org/docs/Web/CSS/view-transition-class) (Chrome 125, Firefox 144, Safari 18.2)
+- [view-transition-name](https://developer.mozilla.org/docs/Web/CSS/view-transition-name) (Chrome 111, Firefox 144, Safari 18)
 
 ### selectors
 
 - [<code>::details-content</code>](https://developer.mozilla.org/docs/Web/CSS/::details-content) (Chrome 131, Firefox 143, Safari 18.4)
 - [<code>::highlight()</code>](https://developer.mozilla.org/docs/Web/CSS/::highlight) (Chrome 105, Firefox 140, Safari 17.2)
+- [<code>::view-transition</code>](https://developer.mozilla.org/docs/Web/CSS/::view-transition) (Chrome 109, Firefox 144, Safari 18)
+- [<code>::view-transition-group()</code>](https://developer.mozilla.org/docs/Web/CSS/::view-transition-group) (Chrome 109, Firefox 144, Safari 18)
+- [<code>::view-transition-image-pair()</code>](https://developer.mozilla.org/docs/Web/CSS/::view-transition-image-pair) (Chrome 109, Firefox 144, Safari 18)
+- [<code>::view-transition-new()</code>](https://developer.mozilla.org/docs/Web/CSS/::view-transition-new) (Chrome 109, Firefox 144, Safari 18)
+- [<code>::view-transition-old()</code>](https://developer.mozilla.org/docs/Web/CSS/::view-transition-old) (Chrome 109, Firefox 144, Safari 18)
 
 ### types
 
@@ -71,7 +85,6 @@ _This document is automatically generated weekly._
 
 - [-webkit-text-security](https://developer.mozilla.org/docs/Web/CSS/-webkit-text-security) (Chrome 1, Firefox 114, Safari 3)
 - [animation-composition](https://developer.mozilla.org/docs/Web/CSS/animation-composition) (Chrome 112, Firefox 115, Safari 16)
-- [animation-timeline](https://developer.mozilla.org/docs/Web/CSS/animation-timeline) (Chrome 115, Firefox 110, Safari 26)
 - [contain-intrinsic-block-size](https://developer.mozilla.org/docs/Web/CSS/contain-intrinsic-block-size) (Chrome 95, Firefox 107, Safari 17)
 - [contain-intrinsic-height](https://developer.mozilla.org/docs/Web/CSS/contain-intrinsic-height) (Chrome 95, Firefox 107, Safari 17)
 - [contain-intrinsic-inline-size](https://developer.mozilla.org/docs/Web/CSS/contain-intrinsic-inline-size) (Chrome 95, Firefox 107, Safari 17)
@@ -89,12 +102,6 @@ _This document is automatically generated weekly._
 - [math-style](https://developer.mozilla.org/docs/Web/CSS/math-style) (Chrome 109, Firefox 117, Safari 14.1)
 - [offset-anchor](https://developer.mozilla.org/docs/Web/CSS/offset-anchor) (Chrome 116, Firefox 72, Safari 16)
 - [page](https://developer.mozilla.org/docs/Web/CSS/page) (Chrome 85, Firefox 110, Safari 1)
-- [scroll-timeline](https://developer.mozilla.org/docs/Web/CSS/scroll-timeline) (Chrome 115, Firefox 111, Safari 26)
-- [scroll-timeline-axis](https://developer.mozilla.org/docs/Web/CSS/scroll-timeline-axis) (Chrome 115, Firefox 111, Safari 26)
-- [scroll-timeline-name](https://developer.mozilla.org/docs/Web/CSS/scroll-timeline-name) (Chrome 115, Firefox 111, Safari 26)
-- [view-timeline](https://developer.mozilla.org/docs/Web/CSS/view-timeline) (Chrome 115, Firefox 114, Safari 26)
-- [view-timeline-axis](https://developer.mozilla.org/docs/Web/CSS/view-timeline-axis) (Chrome 115, Firefox 114, Safari 26)
-- [view-timeline-name](https://developer.mozilla.org/docs/Web/CSS/view-timeline-name) (Chrome 115, Firefox 111, Safari 26)
 
 ### selectors
 
@@ -322,6 +329,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total features tracked: 211
+Total features tracked: 218
 
-Last updated: 2025-09-14
+Last updated: 2025-09-21
