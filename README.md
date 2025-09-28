@@ -23,6 +23,7 @@ _This document is automatically generated weekly._
 
 ### selectors
 
+- [<code>:active-view-transition</code>](https://developer.mozilla.org/docs/Web/CSS/:active-view-transition) (Chrome 125, Firefox 144, Safari 18)
 - [<code>::details-content</code>](https://developer.mozilla.org/docs/Web/CSS/::details-content) (Chrome 131, Firefox 143, Safari 18.4)
 - [<code>::highlight()</code>](https://developer.mozilla.org/docs/Web/CSS/::highlight) (Chrome 105, Firefox 140, Safari 17.2)
 - [<code>::view-transition</code>](https://developer.mozilla.org/docs/Web/CSS/::view-transition) (Chrome 109, Firefox 144, Safari 18)
@@ -329,6 +330,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total features tracked: 218
+Total features tracked: 219
 
-Last updated: 2025-09-21
+Last updated: 2025-09-28
