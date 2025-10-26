@@ -15,6 +15,7 @@ _This document is automatically generated weekly._
 - [scroll-timeline](https://developer.mozilla.org/docs/Web/CSS/scroll-timeline) (Chrome 115, Firefox 111, Safari 26)
 - [scroll-timeline-axis](https://developer.mozilla.org/docs/Web/CSS/scroll-timeline-axis) (Chrome 115, Firefox 111, Safari 26)
 - [scroll-timeline-name](https://developer.mozilla.org/docs/Web/CSS/scroll-timeline-name) (Chrome 115, Firefox 111, Safari 26)
+- [text-autospace](https://developer.mozilla.org/docs/Web/CSS/text-autospace) (Chrome 140, Firefox 145, Safari 18.4)
 - [view-timeline](https://developer.mozilla.org/docs/Web/CSS/view-timeline) (Chrome 115, Firefox 114, Safari 26)
 - [view-timeline-axis](https://developer.mozilla.org/docs/Web/CSS/view-timeline-axis) (Chrome 115, Firefox 114, Safari 26)
 - [view-timeline-name](https://developer.mozilla.org/docs/Web/CSS/view-timeline-name) (Chrome 115, Firefox 111, Safari 26)
@@ -330,6 +331,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total features tracked: 219
+Total features tracked: 220
 
-Last updated: 2025-10-19
+Last updated: 2025-10-26
