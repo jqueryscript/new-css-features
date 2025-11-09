@@ -6,6 +6,10 @@ _This document is automatically generated weekly._
 
 ## 2025
 
+### at-rules
+
+- [<code>@scope</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/At-rules/@scope) (Chrome 118, Firefox 146, Safari 17.4)
+
 ### properties
 
 - [animation-timeline](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/animation-timeline) (Chrome 115, Firefox 110, Safari 26)
@@ -24,28 +28,27 @@ _This document is automatically generated weekly._
 
 ### selectors
 
-- [<code>:active-view-transition</code>](https://developer.mozilla.org/docs/Web/CSS/:active-view-transition) (Chrome 125, Firefox 144, Safari 18)
-- [<code>::details-content</code>](https://developer.mozilla.org/docs/Web/CSS/::details-content) (Chrome 131, Firefox 143, Safari 18.4)
-- [<code>::highlight()</code>](https://developer.mozilla.org/docs/Web/CSS/::highlight) (Chrome 105, Firefox 140, Safari 17.2)
-- [<code>::view-transition</code>](https://developer.mozilla.org/docs/Web/CSS/::view-transition) (Chrome 109, Firefox 144, Safari 18)
-- [<code>::view-transition-group()</code>](https://developer.mozilla.org/docs/Web/CSS/::view-transition-group) (Chrome 109, Firefox 144, Safari 18)
-- [<code>::view-transition-image-pair()</code>](https://developer.mozilla.org/docs/Web/CSS/::view-transition-image-pair) (Chrome 109, Firefox 144, Safari 18)
-- [<code>::view-transition-new()</code>](https://developer.mozilla.org/docs/Web/CSS/::view-transition-new) (Chrome 109, Firefox 144, Safari 18)
-- [<code>::view-transition-old()</code>](https://developer.mozilla.org/docs/Web/CSS/::view-transition-old) (Chrome 109, Firefox 144, Safari 18)
+- [<code>:active-view-transition</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Selectors/:active-view-transition) (Chrome 125, Firefox 144, Safari 18)
+- [<code>::details-content</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Selectors/::details-content) (Chrome 131, Firefox 143, Safari 18.4)
+- [<code>::highlight()</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Selectors/::highlight) (Chrome 105, Firefox 140, Safari 17.2)
+- [<code>::view-transition</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Selectors/::view-transition) (Chrome 109, Firefox 144, Safari 18)
+- [<code>::view-transition-group()</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Selectors/::view-transition-group) (Chrome 109, Firefox 144, Safari 18)
+- [<code>::view-transition-image-pair()</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Selectors/::view-transition-image-pair) (Chrome 109, Firefox 144, Safari 18)
+- [<code>::view-transition-new()</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Selectors/::view-transition-new) (Chrome 109, Firefox 144, Safari 18)
+- [<code>::view-transition-old()</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Selectors/::view-transition-old) (Chrome 109, Firefox 144, Safari 18)
 
 ### types
 
-- [<code>abs()</code>](https://developer.mozilla.org/docs/Web/CSS/abs) (Chrome 138, Firefox 118, Safari 15.4)
-- [<code>sign()</code>](https://developer.mozilla.org/docs/Web/CSS/sign) (Chrome 138, Firefox 118, Safari 15.4)
+- [<code>abs()</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Values/abs) (Chrome 138, Firefox 118, Safari 15.4)
+- [<code>sign()</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Values/sign) (Chrome 138, Firefox 118, Safari 15.4)
 
 ## 2024
 
 ### at-rules
 
-- [<code>@page</code>](https://developer.mozilla.org/docs/Web/CSS/@page) (Chrome 2, Firefox 19, Safari 18.2)
-- [<code>@property</code>](https://developer.mozilla.org/docs/Web/CSS/@property) (Chrome 85, Firefox 128, Safari 16.4)
-- [<code>@scope</code>](https://developer.mozilla.org/docs/Web/CSS/@scope) (Chrome 118, Firefox 128, Safari 17.4)
-- [<code>@starting-style</code>](https://developer.mozilla.org/docs/Web/CSS/@starting-style) (Chrome 117, Firefox 129, Safari 17.5)
+- [<code>@page</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/At-rules/@page) (Chrome 2, Firefox 19, Safari 18.2)
+- [<code>@property</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/At-rules/@property) (Chrome 85, Firefox 128, Safari 16.4)
+- [<code>@starting-style</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/At-rules/@starting-style) (Chrome 117, Firefox 129, Safari 17.5)
 
 ### properties
 
@@ -65,23 +68,23 @@ _This document is automatically generated weekly._
 
 ### selectors
 
-- [<code>:popover-open</code>](https://developer.mozilla.org/docs/Web/CSS/:popover-open) (Chrome 114, Firefox 125, Safari 17)
-- [<code>::target-text</code>](https://developer.mozilla.org/docs/Web/CSS/::target-text) (Chrome 89, Firefox 131, Safari 18.2)
+- [<code>:popover-open</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Selectors/:popover-open) (Chrome 114, Firefox 125, Safari 17)
+- [<code>::target-text</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Selectors/::target-text) (Chrome 89, Firefox 131, Safari 18.2)
 
 ### types
 
-- [<code>mod()</code>](https://developer.mozilla.org/docs/Web/CSS/mod) (Chrome 125, Firefox 118, Safari 15.4)
-- [<code>ray()</code>](https://developer.mozilla.org/docs/Web/CSS/ray) (Chrome 116, Firefox 122, Safari 16)
-- [<code>rem()</code>](https://developer.mozilla.org/docs/Web/CSS/rem) (Chrome 125, Firefox 118, Safari 15.4)
-- [<code>round()</code>](https://developer.mozilla.org/docs/Web/CSS/round) (Chrome 125, Firefox 118, Safari 15.4)
+- [<code>mod()</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Values/mod) (Chrome 125, Firefox 118, Safari 15.4)
+- [<code>ray()</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Values/ray) (Chrome 116, Firefox 122, Safari 16)
+- [<code>rem()</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Values/rem) (Chrome 125, Firefox 118, Safari 15.4)
+- [<code>round()</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Values/round) (Chrome 125, Firefox 118, Safari 15.4)
 
 ## 2023
 
 ### at-rules
 
-- [<code>@container</code>](https://developer.mozilla.org/docs/Web/CSS/@container) (Chrome 105, Firefox 110, Safari 16)
-- [<code>@counter-style</code>](https://developer.mozilla.org/docs/Web/CSS/@counter-style) (Chrome 91, Firefox 33, Safari 17)
-- [<code>@font-feature-values</code>](https://developer.mozilla.org/docs/Web/CSS/@font-feature-values) (Chrome 111, Firefox 34, Safari 9.1)
+- [<code>@container</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/At-rules/@container) (Chrome 105, Firefox 110, Safari 16)
+- [<code>@counter-style</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/At-rules/@counter-style) (Chrome 91, Firefox 33, Safari 17)
+- [<code>@font-feature-values</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/At-rules/@font-feature-values) (Chrome 111, Firefox 34, Safari 9.1)
 
 ### properties
 
@@ -107,30 +110,30 @@ _This document is automatically generated weekly._
 
 ### selectors
 
-- [First page pseudo-class (<code>:first</code>)](https://developer.mozilla.org/docs/Web/CSS/:first) (Chrome 18, Firefox 116, Safari 6)
-- [<code>:has()</code>](https://developer.mozilla.org/docs/Web/CSS/:has) (Chrome 105, Firefox 121, Safari 15.4)
+- [First page pseudo-class (<code>:first</code>)](https://developer.mozilla.org/docs/Web/CSS/Reference/Selectors/:first) (Chrome 18, Firefox 116, Safari 6)
+- [<code>:has()</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Selectors/:has) (Chrome 105, Firefox 121, Safari 15.4)
 
 ### types
 
-- [<code>acos()</code>](https://developer.mozilla.org/docs/Web/CSS/acos) (Chrome 111, Firefox 108, Safari 15.4)
-- [<code>asin()</code>](https://developer.mozilla.org/docs/Web/CSS/asin) (Chrome 111, Firefox 108, Safari 15.4)
-- [<code>atan()</code>](https://developer.mozilla.org/docs/Web/CSS/atan) (Chrome 111, Firefox 108, Safari 15.4)
-- [<code>atan2()</code>](https://developer.mozilla.org/docs/Web/CSS/atan2) (Chrome 111, Firefox 108, Safari 15.4)
-- [<code>cos()</code>](https://developer.mozilla.org/docs/Web/CSS/cos) (Chrome 111, Firefox 108, Safari 15.4)
-- [<code>exp()</code>](https://developer.mozilla.org/docs/Web/CSS/exp) (Chrome 120, Firefox 118, Safari 15.4)
-- [<code>hypot()</code>](https://developer.mozilla.org/docs/Web/CSS/hypot) (Chrome 120, Firefox 118, Safari 15.4)
-- [<code>log()</code>](https://developer.mozilla.org/docs/Web/CSS/log) (Chrome 120, Firefox 118, Safari 15.4)
-- [<code>pow()</code>](https://developer.mozilla.org/docs/Web/CSS/pow) (Chrome 120, Firefox 118, Safari 15.4)
-- [<code>sin()</code>](https://developer.mozilla.org/docs/Web/CSS/sin) (Chrome 111, Firefox 108, Safari 15.4)
-- [<code>sqrt()</code>](https://developer.mozilla.org/docs/Web/CSS/sqrt) (Chrome 120, Firefox 118, Safari 15.4)
-- [<code>tan()</code>](https://developer.mozilla.org/docs/Web/CSS/tan) (Chrome 111, Firefox 108, Safari 15.4)
+- [<code>acos()</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Values/acos) (Chrome 111, Firefox 108, Safari 15.4)
+- [<code>asin()</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Values/asin) (Chrome 111, Firefox 108, Safari 15.4)
+- [<code>atan()</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Values/atan) (Chrome 111, Firefox 108, Safari 15.4)
+- [<code>atan2()</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Values/atan2) (Chrome 111, Firefox 108, Safari 15.4)
+- [<code>cos()</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Values/cos) (Chrome 111, Firefox 108, Safari 15.4)
+- [<code>exp()</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Values/exp) (Chrome 120, Firefox 118, Safari 15.4)
+- [<code>hypot()</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Values/hypot) (Chrome 120, Firefox 118, Safari 15.4)
+- [<code>log()</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Values/log) (Chrome 120, Firefox 118, Safari 15.4)
+- [<code>pow()</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Values/pow) (Chrome 120, Firefox 118, Safari 15.4)
+- [<code>sin()</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Values/sin) (Chrome 111, Firefox 108, Safari 15.4)
+- [<code>sqrt()</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Values/sqrt) (Chrome 120, Firefox 118, Safari 15.4)
+- [<code>tan()</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Values/tan) (Chrome 111, Firefox 108, Safari 15.4)
 
 ## 2022
 
 ### at-rules
 
-- [<code>@font-palette-values</code>](https://developer.mozilla.org/docs/Web/CSS/@font-palette-values) (Chrome 101, Firefox 107, Safari 15.4)
-- [<code>@layer</code>](https://developer.mozilla.org/docs/Web/CSS/@layer) (Chrome 99, Firefox 97, Safari 15.4)
+- [<code>@font-palette-values</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/At-rules/@font-palette-values) (Chrome 101, Firefox 107, Safari 15.4)
+- [<code>@layer</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/At-rules/@layer) (Chrome 99, Firefox 97, Safari 15.4)
 
 ### properties
 
@@ -153,11 +156,11 @@ _This document is automatically generated weekly._
 
 ### selectors
 
-- [<code>:modal</code>](https://developer.mozilla.org/docs/Web/CSS/:modal) (Chrome 105, Firefox 103, Safari 15.6)
+- [<code>:modal</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Selectors/:modal) (Chrome 105, Firefox 103, Safari 15.6)
 
 ### types
 
-- [<code>&lt;calc-keyword&gt;</code>](https://developer.mozilla.org/docs/Web/CSS/calc-keyword) (Chrome 99, Firefox 108, Safari 15.4)
+- [<code>&lt;calc-keyword&gt;</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Values/calc-keyword) (Chrome 99, Firefox 108, Safari 15.4)
 
 ## 2021
 
@@ -196,7 +199,7 @@ _This document is automatically generated weekly._
 
 ### selectors
 
-- [<code>:where()</code>](https://developer.mozilla.org/docs/Web/CSS/:where) (Chrome 88, Firefox 78, Safari 14)
+- [<code>:where()</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Selectors/:where) (Chrome 88, Firefox 78, Safari 14)
 
 ## 2020
 
@@ -208,14 +211,14 @@ _This document is automatically generated weekly._
 
 ### selectors
 
-- [<code>::marker</code>](https://developer.mozilla.org/docs/Web/CSS/::marker) (Chrome 86, Firefox 68, Safari 11.1)
-- [<code>::part</code>](https://developer.mozilla.org/docs/Web/CSS/::part) (Chrome 73, Firefox 72, Safari 13.1)
+- [<code>::marker</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Selectors/::marker) (Chrome 86, Firefox 68, Safari 11.1)
+- [<code>::part</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Selectors/::part) (Chrome 73, Firefox 72, Safari 13.1)
 
 ### types
 
-- [<code>clamp()</code>](https://developer.mozilla.org/docs/Web/CSS/clamp) (Chrome 79, Firefox 75, Safari 13.1)
-- [<code>max()</code>](https://developer.mozilla.org/docs/Web/CSS/max) (Chrome 79, Firefox 75, Safari 11.1)
-- [<code>min()</code>](https://developer.mozilla.org/docs/Web/CSS/min) (Chrome 79, Firefox 75, Safari 11.1)
+- [<code>clamp()</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Values/clamp) (Chrome 79, Firefox 75, Safari 13.1)
+- [<code>max()</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Values/max) (Chrome 79, Firefox 75, Safari 11.1)
+- [<code>min()</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Values/min) (Chrome 79, Firefox 75, Safari 11.1)
 
 ## 2019
 
@@ -262,10 +265,10 @@ _This document is automatically generated weekly._
 
 ### selectors
 
-- [<code>:defined</code>](https://developer.mozilla.org/docs/Web/CSS/:defined) (Chrome 54, Firefox 63, Safari 10)
-- [<code>:host</code>](https://developer.mozilla.org/docs/Web/CSS/:host) (Chrome 54, Firefox 63, Safari 10)
-- [<code>:host()</code>](https://developer.mozilla.org/docs/Web/CSS/:host_function) (Chrome 54, Firefox 63, Safari 10)
-- [<code>::slotted</code>](https://developer.mozilla.org/docs/Web/CSS/::slotted) (Chrome 50, Firefox 63, Safari 10)
+- [<code>:defined</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Selectors/:defined) (Chrome 54, Firefox 63, Safari 10)
+- [<code>:host</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Selectors/:host) (Chrome 54, Firefox 63, Safari 10)
+- [<code>:host()</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Selectors/:host_function) (Chrome 54, Firefox 63, Safari 10)
+- [<code>::slotted</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Selectors/::slotted) (Chrome 50, Firefox 63, Safari 10)
 
 ## 2017
 
@@ -295,13 +298,13 @@ _This document is automatically generated weekly._
 
 ### selectors
 
-- [<code>::cue</code>](https://developer.mozilla.org/docs/Web/CSS/::cue) (Chrome 26, Firefox 55, Safari 7)
-- [<code>:focus-within</code>](https://developer.mozilla.org/docs/Web/CSS/:focus-within) (Chrome 60, Firefox 52, Safari 10.1)
+- [<code>::cue</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Selectors/::cue) (Chrome 26, Firefox 55, Safari 7)
+- [<code>:focus-within</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Selectors/:focus-within) (Chrome 60, Firefox 52, Safari 10.1)
 
 ### types
 
-- [<code>&lt;basic-shape&gt;</code>](https://developer.mozilla.org/docs/Web/CSS/basic-shape) (Chrome 37, Firefox 54, Safari 10.1)
-- [<code>&lt;flex&gt;</code>](https://developer.mozilla.org/docs/Web/CSS/flex_value) (Chrome 29, Firefox 40, Safari 10.1)
+- [<code>&lt;basic-shape&gt;</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Values/basic-shape) (Chrome 37, Firefox 54, Safari 10.1)
+- [<code>&lt;flex&gt;</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Values/flex_value) (Chrome 29, Firefox 40, Safari 10.1)
 
 ## 2016
 
@@ -326,11 +329,11 @@ _This document is automatically generated weekly._
 
 ### types
 
-- [<code>var()</code>](https://developer.mozilla.org/docs/Web/CSS/var) (Chrome 49, Firefox 31, Safari 9.1)
+- [<code>var()</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Values/var) (Chrome 49, Firefox 31, Safari 9.1)
 
 
 ## Summary
 
 Total features tracked: 220
 
-Last updated: 2025-11-02
+Last updated: 2025-11-09
