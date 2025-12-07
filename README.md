@@ -14,6 +14,7 @@ _This document is automatically generated weekly._
 
 - [animation-timeline](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/animation-timeline) (Chrome 115, Firefox 110, Safari 26)
 - [font-variant-emoji](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/font-variant-emoji) (Chrome 131, Firefox 141, Safari 17.5)
+- [math-shift](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/math-shift) (Chrome 109, Firefox 146, Safari 26.2)
 - [overflow-block](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/overflow-block) (Chrome 135, Firefox 69, Safari 26)
 - [overflow-inline](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/overflow-inline) (Chrome 135, Firefox 69, Safari 26)
 - [scroll-timeline](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/scroll-timeline) (Chrome 115, Firefox 111, Safari 26)
@@ -57,6 +58,7 @@ _This document is automatically generated weekly._
 - [ruby-align](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/ruby-align) (Chrome 128, Firefox 38, Safari 18.2)
 - [rx](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/rx) (Chrome 43, Firefox 69, Safari 17.4)
 - [ry](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/ry) (Chrome 43, Firefox 69, Safari 17.4)
+- [scrollbar-color](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/scrollbar-color) (Chrome 121, Firefox 64, Safari 26.2)
 - [scrollbar-gutter](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/scrollbar-gutter) (Chrome 94, Firefox 97, Safari 18.2)
 - [scrollbar-width](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/scrollbar-width) (Chrome 121, Firefox 64, Safari 18.2)
 - [text-wrap](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-wrap) (Chrome 114, Firefox 121, Safari 17.4)
@@ -334,6 +336,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total features tracked: 220
+Total features tracked: 222
 
-Last updated: 2025-11-30
+Last updated: 2025-12-07
