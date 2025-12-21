@@ -20,6 +20,7 @@ _This document is automatically generated weekly._
 - [scroll-timeline](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/scroll-timeline) (Chrome 115, Firefox 111, Safari 26)
 - [scroll-timeline-axis](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/scroll-timeline-axis) (Chrome 115, Firefox 111, Safari 26)
 - [scroll-timeline-name](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/scroll-timeline-name) (Chrome 115, Firefox 111, Safari 26)
+- [scrollbar-color](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/scrollbar-color) (Chrome 121, Firefox 64, Safari 26.2)
 - [text-autospace](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-autospace) (Chrome 140, Firefox 145, Safari 18.4)
 - [view-timeline](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/view-timeline) (Chrome 115, Firefox 114, Safari 26)
 - [view-timeline-axis](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/view-timeline-axis) (Chrome 115, Firefox 114, Safari 26)
@@ -58,7 +59,6 @@ _This document is automatically generated weekly._
 - [ruby-align](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/ruby-align) (Chrome 128, Firefox 38, Safari 18.2)
 - [rx](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/rx) (Chrome 43, Firefox 69, Safari 17.4)
 - [ry](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/ry) (Chrome 43, Firefox 69, Safari 17.4)
-- [scrollbar-color](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/scrollbar-color) (Chrome 121, Firefox 64, Safari 26.2)
 - [scrollbar-gutter](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/scrollbar-gutter) (Chrome 94, Firefox 97, Safari 18.2)
 - [scrollbar-width](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/scrollbar-width) (Chrome 121, Firefox 64, Safari 18.2)
 - [text-wrap](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-wrap) (Chrome 114, Firefox 121, Safari 17.4)
@@ -338,4 +338,4 @@ _This document is automatically generated weekly._
 
 Total features tracked: 222
 
-Last updated: 2025-12-14
+Last updated: 2025-12-21
