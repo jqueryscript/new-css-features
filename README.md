@@ -338,4 +338,4 @@ _This document is automatically generated weekly._
 
 Total features tracked: 222
 
-Last updated: 2025-12-21
+Last updated: 2025-12-28
