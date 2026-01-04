@@ -4,6 +4,29 @@ A comprehensive list of new CSS features by year of general availability across 
 
 _This document is automatically generated weekly._
 
+## 2026
+
+### at-rules
+
+- [<code>@position-try</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/At-rules/@position-try) (Chrome 125, Firefox 147, Safari 26)
+
+### properties
+
+- [anchor-name](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/anchor-name) (Chrome 125, Firefox 147, Safari 26)
+- anchor-scope (Chrome 131, Firefox 147, Safari 26)
+- [position-anchor](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/position-anchor) (Chrome 125, Firefox 147, Safari 26)
+- [position-try](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/position-try) (Chrome 125, Firefox 147, Safari 26)
+- [position-visibility](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/position-visibility) (Chrome 125, Firefox 147, Safari 26.2)
+
+### selectors
+
+- [<code>:active-view-transition-type()</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Selectors/:active-view-transition-type) (Chrome 125, Firefox 147, Safari 18.2)
+
+### types
+
+- [<code>anchor()</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Values/anchor) (Chrome 125, Firefox 147, Safari 26)
+- [<code>anchor-size()</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Values/anchor-size) (Chrome 125, Firefox 147, Safari 26)
+
 ## 2025
 
 ### at-rules
@@ -336,6 +359,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total features tracked: 222
+Total features tracked: 231
 
-Last updated: 2025-12-28
+Last updated: 2026-01-04
