@@ -13,9 +13,10 @@ _This document is automatically generated weekly._
 ### properties
 
 - [anchor-name](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/anchor-name) (Chrome 125, Firefox 147, Safari 26)
-- anchor-scope (Chrome 131, Firefox 147, Safari 26)
+- [anchor-scope](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/anchor-scope) (Chrome 131, Firefox 147, Safari 26)
 - [position-anchor](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/position-anchor) (Chrome 125, Firefox 147, Safari 26)
 - [position-try](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/position-try) (Chrome 125, Firefox 147, Safari 26)
+- [position-try-order](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/position-try-order) (Chrome 125, Firefox 148, Safari 26)
 - [position-visibility](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/position-visibility) (Chrome 125, Firefox 147, Safari 26.2)
 
 ### selectors
@@ -359,6 +360,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total features tracked: 231
+Total features tracked: 232
 
-Last updated: 2026-01-11
+Last updated: 2026-01-18
