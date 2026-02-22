@@ -131,6 +131,7 @@ _This document is automatically generated weekly._
 - [font-variant-alternates](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/font-variant-alternates) (Chrome 111, Firefox 34, Safari 9.1)
 - [font-variant-position](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/font-variant-position) (Chrome 117, Firefox 34, Safari 9.1)
 - [mask-mode](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/mask-mode) (Chrome 120, Firefox 53, Safari 15.4)
+- [math-depth](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/math-depth) (Chrome 109, Firefox 117, Safari 26.4)
 - [math-style](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/math-style) (Chrome 109, Firefox 117, Safari 14.1)
 - [offset-anchor](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/offset-anchor) (Chrome 116, Firefox 72, Safari 16)
 - [page](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/page) (Chrome 85, Firefox 110, Safari 1)
@@ -361,6 +362,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total features tracked: 233
+Total features tracked: 234
 
-Last updated: 2026-02-15
+Last updated: 2026-02-22
