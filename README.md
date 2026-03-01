@@ -12,8 +12,10 @@ _This document is automatically generated weekly._
 
 ### properties
 
+- [alignment-baseline](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/alignment-baseline) (Chrome 1, Firefox 149, Safari 5.1)
 - [anchor-name](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/anchor-name) (Chrome 125, Firefox 147, Safari 26)
 - [anchor-scope](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/anchor-scope) (Chrome 131, Firefox 147, Safari 26)
+- [baseline-shift](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/baseline-shift) (Chrome 1, Firefox 149, Safari 4)
 - [position-anchor](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/position-anchor) (Chrome 125, Firefox 147, Safari 26)
 - [position-try](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/position-try) (Chrome 125, Firefox 147, Safari 26)
 - [position-try-order](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/position-try-order) (Chrome 125, Firefox 148, Safari 26)
@@ -362,6 +364,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total features tracked: 234
+Total features tracked: 236
 
-Last updated: 2026-02-22
+Last updated: 2026-03-01
