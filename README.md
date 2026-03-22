@@ -16,10 +16,12 @@ _This document is automatically generated weekly._
 - [anchor-name](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/anchor-name) (Chrome 125, Firefox 147, Safari 26)
 - [anchor-scope](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/anchor-scope) (Chrome 131, Firefox 147, Safari 26)
 - [baseline-shift](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/baseline-shift) (Chrome 1, Firefox 149, Safari 4)
-- [position-anchor](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/position-anchor) (Chrome 125, Firefox 147, Safari 26)
 - [position-try](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/position-try) (Chrome 125, Firefox 147, Safari 26)
 - [position-try-order](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/position-try-order) (Chrome 125, Firefox 148, Safari 26)
 - [position-visibility](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/position-visibility) (Chrome 125, Firefox 147, Safari 26.2)
+- [text-box](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-box) (Chrome 133, Firefox 149, Safari 18.2)
+- [text-box-edge](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-box-edge) (Chrome 133, Firefox 149, Safari 18.2)
+- [text-box-trim](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-box-trim) (Chrome 133, Firefox 149, Safari 18.2)
 
 ### selectors
 
@@ -29,6 +31,7 @@ _This document is automatically generated weekly._
 
 - [<code>anchor()</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Values/anchor) (Chrome 125, Firefox 147, Safari 26)
 - [<code>anchor-size()</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Values/anchor-size) (Chrome 125, Firefox 147, Safari 26)
+- [<code>&lt;text-edge&gt;</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Values/text-edge) (Chrome 133, Firefox 149, Safari 18.2)
 
 ## 2025
 
@@ -364,6 +367,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total features tracked: 236
+Total features tracked: 239
 
-Last updated: 2026-03-15
+Last updated: 2026-03-22
