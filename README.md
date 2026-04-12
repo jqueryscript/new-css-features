@@ -367,4 +367,4 @@ _This document is automatically generated weekly._
 
 Total features tracked: 237
 
-Last updated: 2026-04-05
+Last updated: 2026-04-12
