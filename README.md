@@ -15,6 +15,9 @@ _This document is automatically generated weekly._
 - [alignment-baseline](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/alignment-baseline) (Chrome 1, Firefox 149, Safari 5.1)
 - [anchor-name](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/anchor-name) (Chrome 125, Firefox 147, Safari 26)
 - [anchor-scope](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/anchor-scope) (Chrome 131, Firefox 147, Safari 26)
+- [animation-range](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/animation-range) (Chrome 115, Firefox 150, Safari 26)
+- [animation-range-end](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/animation-range-end) (Chrome 115, Firefox 150, Safari 26)
+- [animation-range-start](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/animation-range-start) (Chrome 115, Firefox 150, Safari 26)
 - [baseline-shift](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/baseline-shift) (Chrome 1, Firefox 149, Safari 4)
 - [math-depth](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/math-depth) (Chrome 109, Firefox 117, Safari 26.4)
 - [position-try](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/position-try) (Chrome 125, Firefox 147, Safari 26)
@@ -62,7 +65,6 @@ _This document is automatically generated weekly._
 
 - [<code>:active-view-transition</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Selectors/:active-view-transition) (Chrome 125, Firefox 144, Safari 18)
 - [<code>::details-content</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Selectors/::details-content) (Chrome 131, Firefox 143, Safari 18.4)
-- [<code>::highlight()</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Selectors/::highlight) (Chrome 105, Firefox 140, Safari 17.2)
 - [<code>::view-transition</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Selectors/::view-transition) (Chrome 109, Firefox 144, Safari 18)
 - [<code>::view-transition-group()</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Selectors/::view-transition-group) (Chrome 109, Firefox 144, Safari 18)
 - [<code>::view-transition-image-pair()</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Selectors/::view-transition-image-pair) (Chrome 109, Firefox 144, Safari 18)
@@ -365,6 +367,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total features tracked: 237
+Total features tracked: 239
 
-Last updated: 2026-04-12
+Last updated: 2026-04-19
