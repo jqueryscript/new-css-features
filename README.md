@@ -177,11 +177,6 @@ _This document is automatically generated weekly._
 - [contain](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/contain) (Chrome 52, Firefox 69, Safari 15.4)
 - [font-palette](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/font-palette) (Chrome 101, Firefox 107, Safari 15.4)
 - [font-synthesis](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/font-synthesis) (Chrome 97, Firefox 34, Safari 9)
-- [overscroll-behavior](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/overscroll-behavior) (Chrome 63, Firefox 59, Safari 16)
-- [overscroll-behavior-block](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/overscroll-behavior-block) (Chrome 77, Firefox 73, Safari 16)
-- [overscroll-behavior-inline](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/overscroll-behavior-inline) (Chrome 77, Firefox 73, Safari 16)
-- [overscroll-behavior-x](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/overscroll-behavior-x) (Chrome 63, Firefox 59, Safari 16)
-- [overscroll-behavior-y](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/overscroll-behavior-y) (Chrome 63, Firefox 59, Safari 16)
 - [rotate](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/rotate) (Chrome 104, Firefox 72, Safari 14.1)
 - [scale](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/scale) (Chrome 104, Firefox 72, Safari 14.1)
 - [scroll-behavior](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/scroll-behavior) (Chrome 61, Firefox 36, Safari 15.4)
@@ -367,6 +362,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total features tracked: 239
+Total features tracked: 234
 
-Last updated: 2026-04-19
+Last updated: 2026-04-26
