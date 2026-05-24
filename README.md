@@ -16,6 +16,7 @@ _This document is automatically generated weekly._
 - [anchor-name](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/anchor-name) (Chrome 125, Firefox 147, Safari 26)
 - [anchor-scope](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/anchor-scope) (Chrome 131, Firefox 147, Safari 26)
 - [baseline-shift](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/baseline-shift) (Chrome 1, Firefox 149, Safari 4)
+- [field-sizing](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/field-sizing) (Chrome 123, Firefox 152, Safari 26.2)
 - [math-depth](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/math-depth) (Chrome 109, Firefox 117, Safari 26.4)
 - [position-try](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/position-try) (Chrome 125, Firefox 147, Safari 26)
 - [position-try-order](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/position-try-order) (Chrome 125, Firefox 148, Safari 26)
@@ -26,6 +27,7 @@ _This document is automatically generated weekly._
 
 ### selectors
 
+- [<code>::-webkit-scrollbar</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Selectors/::-webkit-scrollbar) (Chrome 2, Firefox 152, Safari 4)
 - [<code>:active-view-transition-type()</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Selectors/:active-view-transition-type) (Chrome 125, Firefox 147, Safari 18.2)
 
 ### types
@@ -359,6 +361,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total features tracked: 231
+Total features tracked: 233
 
-Last updated: 2026-05-17
+Last updated: 2026-05-24
