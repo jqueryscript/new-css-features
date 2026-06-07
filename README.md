@@ -171,7 +171,6 @@ _This document is automatically generated weekly._
 
 ### properties
 
-- [accent-color](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/accent-color) (Chrome 93, Firefox 92, Safari 15.4)
 - [color-scheme](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/color-scheme) (Chrome 81, Firefox 96, Safari 13)
 - [contain](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/contain) (Chrome 52, Firefox 69, Safari 15.4)
 - [font-palette](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/font-palette) (Chrome 101, Firefox 107, Safari 15.4)
@@ -361,6 +360,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total features tracked: 233
+Total features tracked: 232
 
-Last updated: 2026-05-31
+Last updated: 2026-06-07
