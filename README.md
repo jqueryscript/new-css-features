@@ -45,7 +45,6 @@ _This document is automatically generated weekly._
 ### properties
 
 - [animation-timeline](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/animation-timeline) (Chrome 115, Firefox 110, Safari 26)
-- [font-variant-emoji](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/font-variant-emoji) (Chrome 131, Firefox 141, Safari 17.5)
 - [math-shift](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/math-shift) (Chrome 109, Firefox 146, Safari 26.2)
 - [overflow-block](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/overflow-block) (Chrome 135, Firefox 69, Safari 26)
 - [overflow-inline](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/overflow-inline) (Chrome 135, Firefox 69, Safari 26)
@@ -360,6 +359,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total features tracked: 232
+Total features tracked: 231
 
-Last updated: 2026-06-14
+Last updated: 2026-06-21
