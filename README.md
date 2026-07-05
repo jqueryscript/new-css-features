@@ -27,8 +27,9 @@ _This document is automatically generated weekly._
 
 ### selectors
 
-- [<code>::-webkit-scrollbar</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Selectors/::-webkit-scrollbar) (Chrome 2, Firefox 152, Safari 4)
+- [<code>::-webkit-scrollbar</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Selectors/::-webkit-scrollbar) (Chrome 2, Firefox 153, Safari 4)
 - [<code>:active-view-transition-type()</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Selectors/:active-view-transition-type) (Chrome 125, Firefox 147, Safari 18.2)
+- [<code>:picture-in-picture</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Selectors/:picture-in-picture) (Chrome 110, Firefox 153, Safari 13.1)
 
 ### types
 
@@ -44,18 +45,11 @@ _This document is automatically generated weekly._
 
 ### properties
 
-- [animation-timeline](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/animation-timeline) (Chrome 115, Firefox 110, Safari 26)
 - [math-shift](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/math-shift) (Chrome 109, Firefox 146, Safari 26.2)
 - [overflow-block](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/overflow-block) (Chrome 135, Firefox 69, Safari 26)
 - [overflow-inline](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/overflow-inline) (Chrome 135, Firefox 69, Safari 26)
-- [scroll-timeline](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/scroll-timeline) (Chrome 115, Firefox 111, Safari 26)
-- [scroll-timeline-axis](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/scroll-timeline-axis) (Chrome 115, Firefox 111, Safari 26)
-- [scroll-timeline-name](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/scroll-timeline-name) (Chrome 115, Firefox 111, Safari 26)
 - [scrollbar-color](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/scrollbar-color) (Chrome 121, Firefox 64, Safari 26.2)
 - [text-autospace](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-autospace) (Chrome 140, Firefox 145, Safari 18.4)
-- [view-timeline](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/view-timeline) (Chrome 115, Firefox 114, Safari 26)
-- [view-timeline-axis](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/view-timeline-axis) (Chrome 115, Firefox 114, Safari 26)
-- [view-timeline-name](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/view-timeline-name) (Chrome 115, Firefox 111, Safari 26)
 - [view-transition-class](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/view-transition-class) (Chrome 125, Firefox 144, Safari 18.2)
 - [view-transition-name](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/view-transition-name) (Chrome 111, Firefox 144, Safari 18)
 
@@ -270,6 +264,7 @@ _This document is automatically generated weekly._
 - [max-block-size](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/max-block-size) (Chrome 57, Firefox 41, Safari 12.1)
 - [min-block-size](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/min-block-size) (Chrome 57, Firefox 41, Safari 12.1)
 - [min-inline-size](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/min-inline-size) (Chrome 57, Firefox 41, Safari 12.1)
+- [overflow-anchor](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/overflow-anchor) (Chrome 56, Firefox 66, Safari 27)
 - [padding-block-end](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/padding-block-end) (Chrome 69, Firefox 41, Safari 12.1)
 - [padding-block-start](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/padding-block-start) (Chrome 69, Firefox 41, Safari 12.1)
 - [r](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/r) (Chrome 43, Firefox 69, Safari 9)
@@ -359,6 +354,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total features tracked: 231
+Total features tracked: 226
 
-Last updated: 2026-06-28
+Last updated: 2026-07-05
