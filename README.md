@@ -21,9 +21,6 @@ _This document is automatically generated weekly._
 - [position-try](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/position-try) (Chrome 125, Firefox 147, Safari 26)
 - [position-try-order](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/position-try-order) (Chrome 125, Firefox 148, Safari 26)
 - [position-visibility](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/position-visibility) (Chrome 125, Firefox 147, Safari 26.2)
-- [text-box](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-box) (Chrome 133, Firefox 149, Safari 18.2)
-- [text-box-edge](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-box-edge) (Chrome 133, Firefox 149, Safari 18.2)
-- [text-box-trim](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-box-trim) (Chrome 133, Firefox 149, Safari 18.2)
 
 ### selectors
 
@@ -354,6 +351,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total features tracked: 226
+Total features tracked: 223
 
-Last updated: 2026-07-05
+Last updated: 2026-07-12
