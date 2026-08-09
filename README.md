@@ -21,17 +21,29 @@ _This document is automatically generated weekly._
 - [position-try](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/position-try) (Chrome 125, Firefox 147, Safari 26)
 - [position-try-order](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/position-try-order) (Chrome 125, Firefox 148, Safari 26)
 - [position-visibility](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/position-visibility) (Chrome 125, Firefox 147, Safari 26.2)
+- [text-box](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-box) (Chrome 133, Firefox 154, Safari 18.2)
+- [text-box-edge](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-box-edge) (Chrome 133, Firefox 154, Safari 18.2)
+- [text-box-trim](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-box-trim) (Chrome 133, Firefox 154, Safari 18.2)
 
 ### selectors
 
 - [<code>::-webkit-scrollbar</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Selectors/::-webkit-scrollbar) (Chrome 2, Firefox 153, Safari 4)
 - [<code>:active-view-transition-type()</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Selectors/:active-view-transition-type) (Chrome 125, Firefox 147, Safari 18.2)
+- [<code>:buffering</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Selectors/:buffering) (Chrome 152, Firefox 150, Safari 15.4)
+- [<code>:muted</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Selectors/:muted) (Chrome 152, Firefox 150, Safari 15.4)
+- [<code>:paused</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Selectors/:paused) (Chrome 152, Firefox 150, Safari 15.4)
 - [<code>:picture-in-picture</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Selectors/:picture-in-picture) (Chrome 110, Firefox 153, Safari 13.1)
+- [<code>:playing</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Selectors/:playing) (Chrome 152, Firefox 150, Safari 15.4)
+- [<code>:seeking</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Selectors/:seeking) (Chrome 152, Firefox 150, Safari 15.4)
+- [<code>:stalled</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Selectors/:stalled) (Chrome 152, Firefox 150, Safari 15.4)
+- [<code>:volume-locked</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Selectors/:volume-locked) (Chrome 152, Firefox 150, Safari 15.4)
 
 ### types
 
 - [<code>anchor()</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Values/anchor) (Chrome 125, Firefox 147, Safari 26)
 - [<code>anchor-size()</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Values/anchor-size) (Chrome 125, Firefox 147, Safari 26)
+- [<code>sibling-count()</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Values/sibling-count) (Chrome 138, Firefox 154, Safari 26.2)
+- [<code>sibling-index()</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Values/sibling-index) (Chrome 138, Firefox 154, Safari 26.2)
 - [<code>&lt;text-edge&gt;</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Values/text-edge) (Chrome 133, Firefox 149, Safari 18.2)
 
 ## 2025
@@ -351,6 +363,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total features tracked: 223
+Total features tracked: 235
 
-Last updated: 2026-08-02
+Last updated: 2026-08-09
