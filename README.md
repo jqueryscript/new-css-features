@@ -48,10 +48,6 @@ _This document is automatically generated weekly._
 
 ## 2025
 
-### at-rules
-
-- [<code>@scope</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/At-rules/@scope) (Chrome 118, Firefox 146, Safari 17.4)
-
 ### properties
 
 - [math-shift](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/math-shift) (Chrome 109, Firefox 146, Safari 26.2)
@@ -363,6 +359,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total features tracked: 235
+Total features tracked: 234
 
-Last updated: 2026-08-09
+Last updated: 2026-08-16
