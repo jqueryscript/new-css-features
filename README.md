@@ -42,6 +42,7 @@ _This document is automatically generated weekly._
 
 - [<code>anchor()</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Values/anchor) (Chrome 125, Firefox 147, Safari 26)
 - [<code>anchor-size()</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Values/anchor-size) (Chrome 125, Firefox 147, Safari 26)
+- [<code>progress()</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Values/progress) (Chrome 138, Firefox 155, Safari 26)
 - [<code>sibling-count()</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Values/sibling-count) (Chrome 138, Firefox 154, Safari 26.2)
 - [<code>sibling-index()</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Values/sibling-index) (Chrome 138, Firefox 154, Safari 26.2)
 - [<code>&lt;text-edge&gt;</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Values/text-edge) (Chrome 133, Firefox 149, Safari 18.2)
@@ -359,6 +360,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total features tracked: 234
+Total features tracked: 235
 
-Last updated: 2026-08-16
+Last updated: 2026-08-23
