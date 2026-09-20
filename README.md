@@ -18,6 +18,7 @@ _This document is automatically generated weekly._
 - [baseline-shift](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/baseline-shift) (Chrome 1, Firefox 149, Safari 4)
 - [field-sizing](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/field-sizing) (Chrome 123, Firefox 152, Safari 26.2)
 - [math-depth](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/math-depth) (Chrome 109, Firefox 117, Safari 26.4)
+- [overflow-anchor](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/overflow-anchor) (Chrome 56, Firefox 66, Safari 27)
 - [position-try](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/position-try) (Chrome 125, Firefox 147, Safari 26)
 - [position-try-order](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/position-try-order) (Chrome 125, Firefox 148, Safari 26)
 - [position-visibility](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/position-visibility) (Chrome 125, Firefox 147, Safari 26.2)
@@ -29,14 +30,7 @@ _This document is automatically generated weekly._
 
 - [<code>::-webkit-scrollbar</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Selectors/::-webkit-scrollbar) (Chrome 2, Firefox 153, Safari 4)
 - [<code>:active-view-transition-type()</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Selectors/:active-view-transition-type) (Chrome 125, Firefox 147, Safari 18.2)
-- [<code>:buffering</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Selectors/:buffering) (Chrome 152, Firefox 150, Safari 15.4)
-- [<code>:muted</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Selectors/:muted) (Chrome 152, Firefox 150, Safari 15.4)
-- [<code>:paused</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Selectors/:paused) (Chrome 152, Firefox 150, Safari 15.4)
 - [<code>:picture-in-picture</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Selectors/:picture-in-picture) (Chrome 110, Firefox 153, Safari 13.1)
-- [<code>:playing</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Selectors/:playing) (Chrome 152, Firefox 150, Safari 15.4)
-- [<code>:seeking</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Selectors/:seeking) (Chrome 152, Firefox 150, Safari 15.4)
-- [<code>:stalled</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Selectors/:stalled) (Chrome 152, Firefox 150, Safari 15.4)
-- [<code>:volume-locked</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Selectors/:volume-locked) (Chrome 152, Firefox 150, Safari 15.4)
 
 ### types
 
@@ -270,7 +264,6 @@ _This document is automatically generated weekly._
 - [max-block-size](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/max-block-size) (Chrome 57, Firefox 41, Safari 12.1)
 - [min-block-size](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/min-block-size) (Chrome 57, Firefox 41, Safari 12.1)
 - [min-inline-size](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/min-inline-size) (Chrome 57, Firefox 41, Safari 12.1)
-- [overflow-anchor](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/overflow-anchor) (Chrome 56, Firefox 66, Safari 27)
 - [padding-block-end](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/padding-block-end) (Chrome 69, Firefox 41, Safari 12.1)
 - [padding-block-start](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/padding-block-start) (Chrome 69, Firefox 41, Safari 12.1)
 - [r](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/r) (Chrome 43, Firefox 69, Safari 9)
@@ -360,6 +353,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total features tracked: 235
+Total features tracked: 228
 
-Last updated: 2026-09-13
+Last updated: 2026-09-20
