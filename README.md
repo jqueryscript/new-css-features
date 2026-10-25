@@ -15,6 +15,10 @@ _This document is automatically generated weekly._
 - [alignment-baseline](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/alignment-baseline) (Chrome 1, Firefox 149, Safari 5.1)
 - [anchor-name](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/anchor-name) (Chrome 125, Firefox 147, Safari 26)
 - [anchor-scope](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/anchor-scope) (Chrome 131, Firefox 147, Safari 26)
+- [animation-range](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/animation-range) (Chrome 115, Firefox 159, Safari 26)
+- [animation-range-end](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/animation-range-end) (Chrome 115, Firefox 159, Safari 26)
+- [animation-range-start](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/animation-range-start) (Chrome 115, Firefox 159, Safari 26)
+- [animation-timeline](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/animation-timeline) (Chrome 115, Firefox 159, Safari 26)
 - [baseline-shift](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/baseline-shift) (Chrome 1, Firefox 149, Safari 4)
 - [field-sizing](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/field-sizing) (Chrome 123, Firefox 152, Safari 26.2)
 - [math-depth](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/math-depth) (Chrome 109, Firefox 117, Safari 26.4)
@@ -22,9 +26,17 @@ _This document is automatically generated weekly._
 - [position-try](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/position-try) (Chrome 125, Firefox 147, Safari 26)
 - [position-try-order](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/position-try-order) (Chrome 125, Firefox 148, Safari 26)
 - [position-visibility](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/position-visibility) (Chrome 125, Firefox 147, Safari 26.2)
+- [scroll-timeline](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/scroll-timeline) (Chrome 115, Firefox 159, Safari 26)
+- [scroll-timeline-axis](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/scroll-timeline-axis) (Chrome 115, Firefox 159, Safari 26)
+- [scroll-timeline-name](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/scroll-timeline-name) (Chrome 115, Firefox 159, Safari 26)
 - [text-box](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-box) (Chrome 133, Firefox 154, Safari 18.2)
 - [text-box-edge](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-box-edge) (Chrome 133, Firefox 154, Safari 18.2)
 - [text-box-trim](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-box-trim) (Chrome 133, Firefox 154, Safari 18.2)
+- [timeline-scope](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/timeline-scope) (Chrome 116, Firefox 159, Safari 26)
+- [view-timeline](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/view-timeline) (Chrome 115, Firefox 159, Safari 26)
+- [view-timeline-axis](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/view-timeline-axis) (Chrome 115, Firefox 159, Safari 26)
+- [view-timeline-inset](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/view-timeline-inset) (Chrome 115, Firefox 159, Safari 26)
+- [view-timeline-name](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/view-timeline-name) (Chrome 115, Firefox 159, Safari 26)
 
 ### selectors
 
@@ -39,6 +51,7 @@ _This document is automatically generated weekly._
 - [<code>progress()</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Values/progress) (Chrome 138, Firefox 155, Safari 26)
 - [<code>sibling-count()</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Values/sibling-count) (Chrome 138, Firefox 154, Safari 26.2)
 - [<code>sibling-index()</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Values/sibling-index) (Chrome 138, Firefox 154, Safari 26.2)
+- [<code>&lt;timeline-range-name&gt;</code>](https://developer.mozilla.org/docs/Web/CSS/Reference/Values/timeline-range-name) (Chrome 119, Firefox 159, Safari 26)
 
 ## 2025
 
@@ -352,6 +365,6 @@ _This document is automatically generated weekly._
 
 ## Summary
 
-Total features tracked: 227
+Total features tracked: 240
 
-Last updated: 2026-10-18
+Last updated: 2026-10-25
